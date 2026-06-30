@@ -1,1 +1,3 @@
 bed_led_strip_pcb/
+build/
+*.obj

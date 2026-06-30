@@ -1,0 +1,70 @@
+
+ESP-32 Board (1PC)
+
+0.96 Inch OLED Display Module (1PC)
+
+GY-6500 Module (1PC)
+
+Power Supply Module (1PC)
+
+ULN2003 Stepper Motor Driver Module (1PC)
+
+Stepper Motor (1PC)
+
+Servo Motor SG90 (1PC)
+
+5V Relay (1PC)
+
+IR Receiver Module & IR Emission Module (1PC)
+
+Joystick Module (1PC)
+
+DHT11 Temperature and Humidity Module (1PC)
+
+Ultrasonic Sensor (1PC)
+
+Fan Blade and 3-6V Motor (1PC)
+
+Active Buzzer & Passive Buzzer (1PC)
+
+74HC595 IC & L293D (1PC)
+
+RC522 RFID Module (1PC)
+
+HC-SR501 PIR Motion Sensor Module (1PC)
+
+Membrane Switch Module (1PC)
+
+Button (5PCS) & Potentiometer 10K (1PC)
+
+1 Digit 7-Segment Display (1PC)
+
+4 Digit 7-Segment Display (1PC)
+
+Tilt Ball Switch (1PC)
+
+Remote Control (1PC)
+
+400 Tie-Points Breadboard (2PCS)
+
+USB A TO C (1PC)
+
+Female-to-Male Dupont Wire (10PCS)
+
+Breadboard Jumper Wire (65PCS)
+
+9V Battery with Snap-on Connector Clip (1PC)
+
+Resistor (120PCS)
+
+LED (25PCS)
+
+RGB LED (2PCS)
+
+Thermistor (1PC)
+
+Diode Rectifier (2PCS)
+
+Photoresistor (Photocell) (2PCS)
+
+NPN Transistor PN2222 (2PCS) 
